@@ -1,0 +1,246 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+	
+}
+body{
+font-size:20px;
+font-family:Tahoma;	
+}
+.r{
+	overflow:hidden;
+	width:1270px;
+	margin:0 auto;
+}
+.header{
+height:150px;
+background:#181817;
+}
+.h{
+	height:90px;
+}
+.ho{
+	height:60px;
+background:#1C1C1B;
+}
+.j{
+	width:760px;
+	float:left;
+}
+
+.j ul li{
+	
+		display:block;
+	float:left;
+     margin:12px;
+	 padding:9px; 
+	 border-right:1px solid #FFFFFF;
+
+}
+.j ul li a{
+	text-decoration:none;
+	padding-right:10px;
+	color:#18A15D;
+	
+}
+.j ul li a:hover{
+	
+	background:black;
+
+}
+.heder{
+	width:490px;
+	float:right;
+}
+.heder ul li {
+	display:block;
+	float:left;
+	margin:2px;
+	padding:2px;
+	padding-top:20px;
+	
+}
+.heder ul li a{
+	text-decoration:none;
+	padding-right:10px;
+	color:#18A15D;
+	font-size:14px;
+}
+.heder ul li a:hover{
+	
+	background:black;
+}
+.new{
+	height:513px;
+	
+}
+.new figure div{
+	display:block;
+	float:left;
+	width:3%;
+	
+	
+}
+.new figure{
+	display:block;
+	float:left;
+	left:0;
+	position:relative;
+	height:205px;
+	width:3334%;
+	margin:0;
+	animation:10s to infinite;
+	
+	
+}
+@keyframes to{
+	0%
+	{
+		left:0%
+	}
+	40%
+	{
+		left:0%
+	}
+	45%
+	{
+		left:-100%
+	}
+	85%
+	{
+		left:-100%
+	}
+	90%
+
+	{	
+	left:0%
+	}
+}
+.q img{
+	height:514px;
+	width:1279px;
+	float:left;
+	
+}
+.ikhtiar{
+	height:230px;
+	width:625px;
+	float:left;
+	
+	
+}
+.ikhtiar img{
+	width:625px;
+	height:170px;
+	margin-top:20px;
+}
+.sa{
+	
+	height:230px;
+	width:625px;
+	float:left;
+}
+.sa img{
+	width:620px;
+	height:170px;
+	margin-left:25px;
+	margin-top:20px;
+}
+.t{
+	
+	height:247px;
+	border-bottom:1px solid #FFFFFF;
+	border-top:1px solid #FFFFFF;
+}
+.f {
+	color: white;
+	width: 100px;
+	float: left;
+	margin-left: 114px;
+	margin-right: 112px;
+}
+.f p{
+	color:#827C68;
+	font-size:18px;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+.f a{
+	text-decoration:none;
+ color:white;
+ font-size:14px;
+ 
+}
+.y{
+	margin-top:20px;
+	color:white;
+	width:200px;
+	float:left;
+	
+	
+	
+}
+.y p{
+	color:#827C68;
+	font-size:18px;
+	margin-bottom:20px;
+	
+}
+.y a{
+	text-decoration:none;
+	color:white;
+	font-size:14px;
+	float:left;
+	padding-right: 65px;
+	
+}
+.e {
+	margin-top: 20px;
+	color: white;
+	width: 200px;
+	float: right;
+	margin-right: 120px;
+}
+.e p{
+	margin-bottom:20px;
+	color:#827C68;
+	font-size:18px;
+}
+.e a img{
+	
+	float:left;
+	padding-right:10px;
+}
+.w {
+	margin-top: 20px;
+	color: white;
+	width: 200px;
+	float: right;
+	margin-right: 117px;
+}
+.w img {
+	margin-bottom: 20px;
+	width: 176px;
+}
+.w p{
+	color:red;
+	font-size:15px;
+}
+.o {
+	color: #53748C;
+	font-size: 10px;
+	margin-left:400px;
+	height:50px;
+}
+.o p{
+	float:left;
+	
+}
+
+.o a{
+	text-decoration:none;
+	color:#53748C;
+	float:left;
+	margin-left:2px;
+}
